@@ -1,5 +1,6 @@
 package org.example;
 
+//CLASS TO ALLOW USER TO SPECIFY WHAT CLOTHES THEY WANT
 public class Application {
 
     private Pants pairOfPants ;
