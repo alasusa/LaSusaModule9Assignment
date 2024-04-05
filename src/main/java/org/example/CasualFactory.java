@@ -1,5 +1,6 @@
 package org.example;
 
+// FACTORY THAT WILL RETURN CASUAL CLOTHES OBJECTS
 public class CasualFactory implements OutfitFactory{
     @Override
     public Pants createAPants() {
