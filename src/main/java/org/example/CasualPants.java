@@ -1,5 +1,6 @@
 package org.example;
 
+//PARTY VARIETY OF THE PANTS CLASS
 public class CasualPants implements Pants{
     @Override
     public void typeOfPants() {
